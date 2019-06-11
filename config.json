@@ -1,0 +1,13 @@
+{
+	"cnx_psql": {
+		"db_username": "postgres",
+		"db_password": "postgres",
+		"host": "localhost",
+		"port": "5435",
+		"db_name": "gus",
+        "schema": "schematest"
+	},
+	"cnx_globales": {
+		"shpdir": "C:/Users/gerard/Desktop/layerypthon"
+	}
+}
