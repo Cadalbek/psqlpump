@@ -7,9 +7,6 @@ import pandas as pd
 import json
 import os
 import glob
-import pdb
-
-
 
 class PsqlPump():
     def __init__(self):
